@@ -57,7 +57,7 @@ Sou um desenvolvedor Back-End com foco em criar soluções robustas e eficientes
   <a href="mailto:pedro.azara.xavier@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## 🎯 Metas para 2024
+## 🎯 Metas para 2025
 
 - [ ] Dominar Spring Boot e Microsserviços
 - [ ] Contribuir para projetos open-source
