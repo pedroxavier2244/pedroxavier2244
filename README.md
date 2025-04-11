@@ -21,7 +21,7 @@ Sou um desenvolvedor Back-End com foco em criar soluções robustas e eficientes
 [![My Skills](https://skillicons.dev/icons?i=java,py,django,spring,js,html,css,bootstrap,c)](https://skillicons.dev)
 
 ### Ferramentas e Plataformas
-[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,linux)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman)](https://skillicons.dev)
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
