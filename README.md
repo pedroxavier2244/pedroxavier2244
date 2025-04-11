@@ -1,43 +1,67 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=140&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=140&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Oi+Sou+Pedro+Azara+Desenvolvedor+back-End+💻;Bem-vindo+ao+Meu+GitHub+:%29)](https://github.com/BarbosAlan)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFFF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+eu+sou+Pedro+Azara!+👨‍💻;Desenvolvedor+Back-End+apaixonado+por+código+⚡)](https://github.com/pedroxavier2244)
 
-<p align="center"></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pedroxavier2244&label=Profile%20views&color=191970&style=flat" alt="pedroxavier2244" />
+</p>
 
-## Minhas Habilidades :
+## 🚀 Sobre Mim
 
-[![HTML-CSS](https://skillicons.dev/icons?i=java,html,css,bootstrap,js)](https://github.com/pedroxavier2244)
+Sou um desenvolvedor Back-End com foco em criar soluções robustas e eficientes. Minha jornada na programação começou com **Java** e desde então venho explorando diversas tecnologias para construir aplicações escaláveis. 
 
+- 🔭 Atualmente trabalhando em: [Front-End Transfero](https://github.com/pedroxavier2244/projeto_front_end_transfero-main)
+- 🌱 Aprendendo: **Spring Boot** e **Arquitetura de Microsserviços**
+- 💬 Pergunte-me sobre: **Java, Python ou desenvolvimento backend em geral**
+- ⚡ Curiosidade: Sou fã de jogos retrô e café ☕
 
-#### Estudando no momento :
+## 🛠️ Tech Stack
 
-[![Habilidades](https://skillicons.dev/icons?i=,java,js,py,django,git,github)](https://github.com/pedroxavier2244)
+### Linguagens e Frameworks
+[![My Skills](https://skillicons.dev/icons?i=java,py,django,spring,js,html,css,bootstrap,c)](https://skillicons.dev)
 
-#### Ferramentas de Trabalho :
+### Ferramentas e Plataformas
+[![My Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman,linux)](https://skillicons.dev)
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## 📈 Estatísticas do GitHub
 
-## Contatos :
+<div align="center">
+ 
+
+<div align="center">
+  <!-- Sequência de contribuições com animação -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedroxavier2244&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&locale=pt" alt="Sequência de Contribuições"/>
+</div>
+
+<!-- Gráfico de atividade -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pedroxavier2244&theme=radical&hide_border=true" alt="Atividade do Pedro" width="100%"/>
+</div>
+## 🏆 Projetos Destacados
+
+| Projeto | Descrição | Tecnologias | Status |
+|---------|-----------|-------------|--------|
+| [Front-End Transfero](https://github.com/pedroxavier2244/projeto_front_end_transfero-main) | Projeto de interface web | Python, Django, HTML, CSS, JS | 🚧 Em andamento |
+| [Senac FullStack](https://github.com/pedroxavier2244/projeto_senac_fullstack) | Projeto acadêmico completo | Java | ✅ Finalizado |
+| [Amigo Secreto](https://github.com/pedroxavier2244/challenge-amigo-secreto_pt-main) | Sistema de sorteio de amigo secreto | JavaScript | ✅ Finalizado |
+| [Cartório Azara](https://github.com/pedroxavier2244/cartorio-azara) | Sistema para cartório | C | ✅ Finalizado |
+
+## 🌐 Conecte-se Comigo
 
 <div> 
-<a href = "mailto:pedro.azara.xavier@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/pedro-azara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/pedro-azara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:pedro.azara.xavier@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-## GitHub Stats :
+## 🎯 Metas para 2024
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroxavier2244&show_icons=true)
+- [ ] Dominar Spring Boot e Microsserviços
+- [ ] Contribuir para projetos open-source
+- [ ] Publicar artigos técnicos sobre Java
+- [ ] Aprender o básico de DevOps
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorHLF42/VictorHLF42/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/VictorHLF42/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FBarbosAlan&s=40&c=0f53f0&bg=00000000&no=2&ff=digi&tb=Visitor+count%3A&ta=" alt="visits">
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
