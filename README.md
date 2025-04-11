@@ -45,8 +45,8 @@ Sou um desenvolvedor Back-End com foco em criar soluções robustas e eficientes
 
 | Projeto | Descrição | Tecnologias | Status |
 |---------|-----------|-------------|--------|
-| [Front-End Transfero](https://github.com/pedroxavier2244/projeto_front_end_transfero-main) | Projeto de interface web | Python, Django, HTML, CSS, JS | 🚧 Em andamento |
-| [Senac FullStack](https://github.com/pedroxavier2244/projeto_senac_fullstack) | Projeto acadêmico completo | Java | ✅ Finalizado |
+| [Projeto site cartorio](https://github.com/pedroxavier2244/projeto_front_end_transfero-main) | Projeto de interface web | Python, Django, HTML, CSS, JS | 🚧 Em andamento |
+| [Senac FullStack](https://github.com/pedroxavier2244/projeto_senac_fullstack) | Projeto loja de e-commerce | Java | ✅ Finalizado |
 | [Amigo Secreto](https://github.com/pedroxavier2244/challenge-amigo-secreto_pt-main) | Sistema de sorteio de amigo secreto | JavaScript | ✅ Finalizado |
 | [Cartório Azara](https://github.com/pedroxavier2244/cartorio-azara) | Sistema para cartório | C | ✅ Finalizado |
 
