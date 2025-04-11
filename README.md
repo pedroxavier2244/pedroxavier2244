@@ -10,7 +10,7 @@
 
 Sou um desenvolvedor Back-End com foco em criar soluções robustas e eficientes. Minha jornada na programação começou com **Java** e desde então venho explorando diversas tecnologias para construir aplicações escaláveis. 
 
-- 🔭 Atualmente trabalhando em: [Front-End Transfero](https://github.com/pedroxavier2244/projeto_front_end_transfero-main)
+- 🔭 Atualmente trabalhando em: [Projeto site cartorio](https://github.com/pedroxavier2244/projeto_front_end_transfero-main)
 - 🌱 Aprendendo: **Spring Boot** e **Arquitetura de Microsserviços**
 - 💬 Pergunte-me sobre: **Java, Python ou desenvolvimento backend em geral**
 - ⚡ Curiosidade: Sou fã de jogos retrô e café ☕
@@ -18,7 +18,7 @@ Sou um desenvolvedor Back-End com foco em criar soluções robustas e eficientes
 ## 🛠️ Tech Stack
 
 ### Linguagens e Frameworks
-[![My Skills](https://skillicons.dev/icons?i=java,py,django,spring,js,html,css,bootstrap,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,django,spring,angular,js,html,css,bootstrap,c)](https://skillicons.dev)
 
 ### Ferramentas e Plataformas
 [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,postman)](https://skillicons.dev)
